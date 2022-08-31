@@ -39,3 +39,8 @@ Git
 https://www.youtube.com/watch?v=tRZGeaHPoaw
 https://www.youtube.com/watch?v=gwWKnnCMQ5c
 https://www.youtube.com/watch?v=G14WMD8Kg3U&t=1285s
+
+## Week 3:
+This is our first week. We learned Scratch.
+
+### What is VS Code?
