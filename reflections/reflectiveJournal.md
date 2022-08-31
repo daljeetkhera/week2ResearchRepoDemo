@@ -34,8 +34,8 @@ GitHub helps every team member work together on a project from any location whil
 
 So now we know what Git and GitHub are. Time to gain a better understanding of the importance and relevance of what is GitHub by exploring its features.
 
-What are GitHub’s Features
-Git
+### What is github's Features :
+
 https://www.youtube.com/watch?v=tRZGeaHPoaw
 
 https://www.youtube.com/watch?v=gwWKnnCMQ5c
@@ -47,3 +47,8 @@ This is our third week. We learned about Visual Stodio Code.
 
 ### What is VS Code?
 Visual Studio Code is a streamlined code editor with support for development operations like debugging, task running, and version control. It aims to provide just the tools a developer needs for a quick code-build-debug cycle and leaves more complex workflows to fuller featured IDEs, such as Visual Studio IDE.
+
+## Week 1:
+This is our first week. We learned Scratch.
+
+### What is Scratch?
