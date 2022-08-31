@@ -47,6 +47,14 @@ This is our third week. We learned about Visual Stodio Code.
 
 ### What is VS Code?
 Visual Studio Code is a streamlined code editor with support for development operations like debugging, task running, and version control. It aims to provide just the tools a developer needs for a quick code-build-debug cycle and leaves more complex workflows to fuller featured IDEs, such as Visual Studio IDE.
+Python :
+
+https://www.dataquest.io/blog/python-projects-for-beginners/
+
+https://docs.python.org/3/library/tkinter.html
+
+https://www.w3schools.com/python/
+
 
 ## Week 1:
 This is our first week. We learned Scratch.
