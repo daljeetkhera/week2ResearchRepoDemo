@@ -80,4 +80,6 @@ Benefits of Agile include its ability to help teams in an evolving landscape whi
 ## Week 6:
 This is our sixth week.
 
-### What is Stand-up?
+### What is Koans in Python?
+Today we learned about the Koans in Python and according to Roman there are more than 300 Koans and I reached upto 28.
+It was great day really good understanding about the problems arise while in testing the software programming.
