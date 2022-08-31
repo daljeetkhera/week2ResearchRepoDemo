@@ -62,3 +62,10 @@ This is our fourth week. We learned Videograph.
 ### What is Videograph?
 In this week we learned about videograph as per instructions by Romn we records the small video of one of our classmate while he or she was in frame. We have to place our phones on the floor and plays the video and Roman make a one video out of various video shoots.
 It was quite good and understanding about the concept of filming.
+
+## Week 5:
+This is our fifth week.
+
+### What is Stand-up?
+Stand-ups are one of the fundamental parts of agile development, and it’s often the most misunderstood. Let’s be real: stand-ups by themselves don’t make your team agile. They aren’t about inflating egos or justifying job descriptions. They aren’t a time to plan; Sprint planning is for planning. They also aren’t the only time to mention blockers. If you’re stuck, ask for help!
+We discussed about our Software Projects.
