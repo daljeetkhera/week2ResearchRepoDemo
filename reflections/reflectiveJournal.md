@@ -37,7 +37,9 @@ So now we know what Git and GitHub are. Time to gain a better understanding of t
 What are GitHub’s Features
 Git
 https://www.youtube.com/watch?v=tRZGeaHPoaw
+
 https://www.youtube.com/watch?v=gwWKnnCMQ5c
+
 https://www.youtube.com/watch?v=G14WMD8Kg3U&t=1285s
 
 ## Week 3:
