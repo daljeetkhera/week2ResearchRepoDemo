@@ -56,7 +56,9 @@ https://docs.python.org/3/library/tkinter.html
 https://www.w3schools.com/python/
 
 
-## Week 1:
-This is our first week. We learned Scratch.
+## Week 4:
+This is our fourth week. We learned Videograph.
 
-### What is Scratch?
+### What is Videograph?
+In this week we learned about videograph as per instructions by Romn we records the small video of one of our classmate while he or she was in frame. We have to place our phones on the floor and plays the video and Roman make a one video out of various video shoots.
+It was quite good and understanding about the concept of filming.
