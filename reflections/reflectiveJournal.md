@@ -43,6 +43,7 @@ https://www.youtube.com/watch?v=gwWKnnCMQ5c
 https://www.youtube.com/watch?v=G14WMD8Kg3U&t=1285s
 
 ## Week 3:
-This is our first week. We learned Scratch.
+This is our third week. We learned about Visual Stodio Code.
 
 ### What is VS Code?
+Visual Studio Code is a streamlined code editor with support for development operations like debugging, task running, and version control. It aims to provide just the tools a developer needs for a quick code-build-debug cycle and leaves more complex workflows to fuller featured IDEs, such as Visual Studio IDE.
