@@ -69,3 +69,15 @@ This is our fifth week.
 ### What is Stand-up?
 Stand-ups are one of the fundamental parts of agile development, and it’s often the most misunderstood. Let’s be real: stand-ups by themselves don’t make your team agile. They aren’t about inflating egos or justifying job descriptions. They aren’t a time to plan; Sprint planning is for planning. They also aren’t the only time to mention blockers. If you’re stuck, ask for help!
 We discussed about our Software Projects.
+We also discussed about Blockchain.
+And we learned about Agile.
+Agile software development -- also referred to simply as Agile -- is a type of development methodology that anticipates the need for flexibility and applies a level of pragmatism to the delivery of the finished product. Agile software development requires a cultural shift in many companies because it focuses on the clean delivery of individual pieces or parts of the software and not on the entire application. 
+
+Benefits of Agile include its ability to help teams in an evolving landscape while maintaining a focus on the efficient delivery of business value. The collaborative culture facilitated by Agile also improves efficiency throughout the organization as teams work together and understand their specific roles in the process. Finally, companies using Agile software development can feel confident that they are releasing a high-quality product since testing is performed throughout development, providing the opportunity to make changes as needed and alert teams to any potential issues.
+![image](https://user-images.githubusercontent.com/110362125/187789818-4b0af447-cb3e-4c89-9bb2-ef21a5f3403c.png)
+
+
+## Week 6:
+This is our sixth week.
+
+### What is Stand-up?
