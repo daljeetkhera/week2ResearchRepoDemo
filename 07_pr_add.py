@@ -1,0 +1,16 @@
+num1 = int(input("Enter your 1st number :",))
+num2 = int(input("Enter your 2st number :",))
+num3 = int(input("Enter your 3rd number :",))
+num4 = int(input("Enter your 4th number :",))
+num5 = int(input("Enter your 5th number :",))
+num6 = int(input("Enter your 6th number :",))
+num7 = int(input("Enter your 7th number :",))
+num8 = int(input("Enter your 8th number :",))
+num9 = int(input("Enter your 9th number :",))
+num10 = int(input("Enter your 10th number :",))
+list = [num1, num2, num3, num4, num5, num6, num7, num8, num9, num10]
+print(list)
+print("Sum of the intergers are :",sum(list))
+sum = sum(list)
+Avg = sum/10
+print("Average of the integers are :",Avg)
